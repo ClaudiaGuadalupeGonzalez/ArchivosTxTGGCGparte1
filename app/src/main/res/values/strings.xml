@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArchivosTxTGGC</string>
+    <string name="lblnombre">Ingresa tu nombre</string>
+    <string name="ingnombre">Escribe tu nombre aquí</string>
+    <string name="escribir">Escribir</string>
+    <string name="inf">Información del archivo</string>
+    <string name="mosinf">Cargar información</string>
+
+
+</resources>
